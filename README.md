@@ -1,6 +1,9 @@
 # Gundam-Next-Plus---Texture-Pack
 Upscale and improve detail texture pack for Kidou Senshi Gundam: Gundam Vs. Gundam - Next Plus (NPJH-50107)
 
+Original thread.
+https://forums.ppsspp.org/showthread.php?tid=26350
+
 <a href="https://ibb.co/1M3Z72F"><img src="https://i.ibb.co/7QHvjys/Zombo-Droid-15042020060936.jpg" border="0"></a>
 <a href="https://ibb.co/nPD5yPC"><img src="https://i.ibb.co/vXJKWXY/Zombo-Droid-13042020170146.jpg" border="0"></a>
 <a href="https://ibb.co/thFDLMz"><img src="https://i.ibb.co/BPFBnVG/Zombo-Droid-13042020170301.jpg" border="0"></a>
